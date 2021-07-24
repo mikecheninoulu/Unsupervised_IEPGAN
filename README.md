@@ -2,7 +2,7 @@
 
 This is an implementation of the ICCV'21 paper "Intrinsic-Extrinsic Preserved GANs for Unsupervised 3D Pose Transfer".
 
-![](pose.PNG)
+![](pose.PNG| width=100)
 
 #### Citation
 
