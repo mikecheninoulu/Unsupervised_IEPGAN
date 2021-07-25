@@ -1,6 +1,7 @@
 # Unsupervised_IEPGAN
 
-This is an implementation of our ICCV 2021 paper "Intrinsic-Extrinsic Preserved GANs for Unsupervised 3D Pose Transfer".
+This is the PyTorch implementation of our ICCV 2021 paper "Intrinsic-Extrinsic Preserved GANs for Unsupervised 3D Pose Transfer".<br>
+[Haoyu Chen](https://scholar.google.com/citations?user=QgbraMIAAAAJ&hl=en), [Hao Tang](http://disi.unitn.it/~hao.tang/), [Henglin Shi](https://scholar.google.com/citations?user=lIjqVQkAAAAJ&hl=en), [Wei Peng](https://scholar.google.com/citations?user=TDFM0QYAAAAJ&hl=en), [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en)<sup>13</sup>, [Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en). <br>
 
 <img src="pose.PNG" width="300" height="300">
 
@@ -37,7 +38,6 @@ Your can change the hyperparameters according to your GPU settings and needs in 
 ```
 python  train.py --batch 4 ./dataset_3d/FAUST/  --edge_loss_setting 'rec_rec' --experi_path 'full_adap_GIH_Lap_rec' --server 'local' --rec_epoch 1200 --geo_epoch 1600 --iter 2000 --geoloss 0.005 --n_crop 1 --ref_crop 2 --sampling_number 120 --limb_n 4 --limb_sampling 600  --sampling_pattern 'adaptive'
 ```
-
 
 ## Acknowledgement
 Part of our code is based on 
