@@ -44,7 +44,7 @@ Part of our code is based on
 
 3D transfer: [NPT](https://github.com/jiashunwang/Neural-Pose-Transfer)，
 
-GAN framework: [SWAP-Autoencoder(unofficial implements)](https://github.com/rosinality/swapping-autoencoder-pytorch) and 
+GAN framework: [SWAP-Autoencoder (unofficial implementation)](https://github.com/rosinality/swapping-autoencoder-pytorch) and 
 
 GIH implementation: [LIMP](https://github.com/lcosmo/LIMP). 
 Many thanks!
