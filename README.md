@@ -1,6 +1,6 @@
 # Unsupervised_IEPGAN
 
-This is the PyTorch implementation of our ICCV 2021 paper "Intrinsic-Extrinsic Preserved GANs for Unsupervised 3D Pose Transfer".<br>
+This is the PyTorch implementation of our ICCV 2021 paper [Intrinsic-Extrinsic Preserved GANs for Unsupervised 3D Pose Transfer](https://arxiv.org/abs/2108.07520). <br>
 [Haoyu Chen](https://scholar.google.com/citations?user=QgbraMIAAAAJ&hl=en), [Hao Tang](https://scholar.google.com/citations?user=9zJkeEMAAAAJ&hl=en), [Henglin Shi](https://scholar.google.com/citations?user=lIjqVQkAAAAJ&hl=en), [Wei Peng](https://scholar.google.com/citations?user=TDFM0QYAAAAJ&hl=en), [Nicu Sebe](https://scholar.google.com/citations?user=stFCYOAAAAAJ&hl=en), [Guoying Zhao](https://scholar.google.com/citations?user=hzywrFMAAAAJ&hl=en). <br>
 
 <img src="pose.PNG" width="500" height="500">
