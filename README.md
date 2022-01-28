@@ -36,7 +36,7 @@ The script of generating the GIH of the data is provided now, see generate_geode
 
 The generated GIH of the FAUST dataset will be around 13GB.
 
-You can also directly download it from the link below:
+You can also directly download it from the link here:
 [FAUST GIH link](https://drive.google.com/file/d/1TxJKwxOc-GCwFY1qXtmrmzSUjf3vDo-a/view?usp=sharing).
 
 ## Usage
