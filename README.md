@@ -32,7 +32,7 @@ Please download FAUST data from [FAUST link](http://faust.is.tue.mpg.de/), and D
 You need to convert the datasets into .obj format for better run the source code, converted version can be downloaded here:
 [FAUST link](https://drive.google.com/file/d/1AqpZajXN4CwZ8hBfycluNCZCcijBs3Gh/view?usp=sharing/)
 
-The script of generating the GIH of the data is provided now, see generate_geodesic_distance.py. 
+The script of generating the GIH of the data is provided now, see GIH_calculating/generate_geodesic_distance.py. 
 
 The generated GIH of the FAUST dataset will be around 13GB.
 
