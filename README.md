@@ -28,6 +28,17 @@ Requirements:
 ## Dataset preparation
 Please download FAUST data from [FAUST link](http://faust.is.tue.mpg.de/), and DFAUST dataset from [DFAUST link](https://dfaust.is.tue.mpg.de/) for training the model.
 
+## Preprocessed data
+You need to convert the datasets into .obj format for better run the source code, converted version can be downloaded here:
+[FAUST link](https://drive.google.com/file/d/1AqpZajXN4CwZ8hBfycluNCZCcijBs3Gh/view?usp=sharing/)
+
+The script of generating the GIH of the data is provided now, see generate_geodesic_distance.py. 
+
+The generated GIH of the FAUST dataset will be around 13GB.
+
+You can also directly download it from the link below:
+[FAUST GIH link](https://drive.google.com/file/d/1TxJKwxOc-GCwFY1qXtmrmzSUjf3vDo-a/view?usp=sharing).
+
 ## Usage
 The usage of our code is easy, just run the code below.
 ```
