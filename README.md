@@ -18,7 +18,7 @@ If you use our code or paper, please consider citing:
 ```
 
 # Important
-The current version will lead to a degenerated result, the training strategy should be the same as in the paper. Revised version will be uploaded soon. Thanks to Xiaokun's help!
+The current version will lead to a degenerated result, the training strategy should be the same as in the paper (not this version). Revised version will be uploaded soon. Thanks to Xiaokun's help!
 
 
 ## Dependencies
