@@ -17,6 +17,10 @@ If you use our code or paper, please consider citing:
 }
 ```
 
+## Important
+The current version will lead to a degenerated results, the training strategy should be the same as in the paper. Revised version will be uploaded soon. Thanks to Xiaokun's help!
+
+
 ## Dependencies
 
 Requirements:
